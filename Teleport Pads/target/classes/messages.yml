@@ -1,0 +1,5 @@
+teleport_created: "Teleport pad created!"
+teleport_failed: "Invalid coordinates."
+only_players: "This command can only be used by players."
+teleport_pad_removed: "Teleport pad removed."
+not_teleport_pad: "This is not a teleport pad."

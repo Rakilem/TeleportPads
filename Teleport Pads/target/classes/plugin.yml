@@ -1,0 +1,8 @@
+name: TeleportPads
+version: 1.0.1
+api: [1.0.0, 2.0.0]
+author: Rakilem YT
+main: com.rakilem.teleportpads.TeleportPads
+commands:
+  setteleportpad:
+    description: "Set a teleport pad at your current location"
